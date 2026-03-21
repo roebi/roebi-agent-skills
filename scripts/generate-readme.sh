@@ -65,7 +65,8 @@ Hub for all repositories tagged with the
 [roebi-agent-skills](https://github.com/topics/roebi-agent-skills) topic.
 
 > *"The LLM reflects — the user evaluates."* — roebi
-> *"I ask for algorithms, I get algorithms."* — team member
+>
+> *"I ask for skills, I get skills."* — roebi
 
 This README is generated automatically by a GitHub Action.
 No manual editing. Algorithm first, no Skill needed.

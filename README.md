@@ -12,7 +12,7 @@ No manual editing. Algorithm first, no Skill needed.
 
 **User filter:** `roebi`
 **Topic:** [`roebi-agent-skills`](https://github.com/topics/roebi-agent-skills)
-**Last updated:** 2026-03-28 06:53 UTC
+**Last updated:** 2026-03-29 06:57 UTC
 
 ---
 
@@ -20,12 +20,12 @@ No manual editing. Algorithm first, no Skill needed.
 
 | Repository | Description | ★ | Updated |
 |---|---|---|---|
-| [roebi/agent-skills](https://github.com/roebi/agent-skills) | agent skill library for ai agents using skills | 2 | 2026-03-21 |
 | [roebi/new-work-skills](https://github.com/roebi/new-work-skills) | Agent Skills that teach and implement the **New Work with Skills** methodology | 2 | 2026-03-21 |
 | [roebi/agent-security-skills](https://github.com/roebi/agent-security-skills) | agent security skills - a 6 layer security skill system | 2 | 2026-03-21 |
+| [roebi/agent-skills](https://github.com/roebi/agent-skills) | agent skill library for ai agents using skills | 2 | 2026-03-28 |
 | [roebi/algo-first-skill-sec](https://github.com/roebi/algo-first-skill-sec) | Architecture Pattern: Algo First, Skill Second | 1 | 2026-03-21 |
 | [roebi/sw-architecture-skills](https://github.com/roebi/sw-architecture-skills) | sw architecture skills - that you can ask about | 1 | 2026-03-21 |
-| [roebi/awesome-sw-dev-trees](https://github.com/roebi/awesome-sw-dev-trees) | Be-weekly automated updated awesome 25 Most Used File Trees in Software Development | 0 | 2026-03-24 |
+| [roebi/awesome-sw-dev-trees](https://github.com/roebi/awesome-sw-dev-trees) | Be-weekly automated updated awesome 25 Most Used File Trees in Software Development | 0 | 2026-03-28 |
 
 ---
 

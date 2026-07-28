@@ -12,7 +12,7 @@ No manual editing. Algorithm first, no Skill needed.
 
 **User filter:** `roebi`
 **Topic:** [`roebi-agent-skills`](https://github.com/topics/roebi-agent-skills)
-**Last updated:** 2026-07-27 09:39 UTC
+**Last updated:** 2026-07-28 08:24 UTC
 
 ---
 
